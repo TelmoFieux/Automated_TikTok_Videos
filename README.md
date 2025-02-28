@@ -6,4 +6,4 @@ This project uses web scraping and the reddit API to get info from Reddit pages.
 I stopped working on it in December 2023. So, with the pace of AI growth, this means Tortoise is either way better with new functionalities not used, or there are better free alternatives which I am not aware of.
 You will also need a video for the background of the video. Either by importing it wich can take quit a while if this is a big file. Or just import the video on your drive and then connect the drive to collab.
 
-There are some issues
+There are some issues/upgrades possible worth mentioning. When using the voiceover some abreviation a red wrong wich can be annoying. The text font is not really good. Maybe there are better voices... And others things linked to how the final video will be and how polished or not it will be.
